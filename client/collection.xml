@@ -1,0 +1,34 @@
+<Citys>
+    <item>
+        <id>1</id>
+        <name>Kras</name>
+        <coordinates>
+            <x>20.0</x>
+            <y>20</y>
+        </coordinates>
+        <creationDateTime>
+            <year>2020</year>
+            <month>NOVEMBER</month>
+            <dayOfMonth>26</dayOfMonth>
+            <monthValue>11</monthValue>
+            <chronology>
+                <id>ISO</id>
+                <calendarType>iso8601</calendarType>
+            </chronology>
+            <dayOfWeek>THURSDAY</dayOfWeek>
+            <dayOfYear>331</dayOfYear>
+            <era>CE</era>
+            <leapYear>true</leapYear>
+        </creationDateTime>
+        <area>2500</area>
+        <population>2000000</population>
+        <metersAboveSeaLevel>1500</metersAboveSeaLevel>
+        <populationDensity>250</populationDensity>
+        <climate>RAIN_FOREST</climate>
+        <government>ANARCHY</government>
+        <governor>
+            <name>AKbulatov</name>
+            <height>100.0</height>
+        </governor>
+    </item>
+</Citys>
